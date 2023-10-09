@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656300033002",
+    "project_id": "food-foresight",
+    "storage_bucket": "food-foresight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656300033002:android:5aff39a038680b1a5aa893",
+        "android_client_info": {
+          "package_name": "com.example.food_foresight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656300033002-t5vt5sfjdgoe38clkl9ljeo7cug46c98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt85hsclYRdXNyHlSq5q1298gVKUq6QhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656300033002-t5vt5sfjdgoe38clkl9ljeo7cug46c98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

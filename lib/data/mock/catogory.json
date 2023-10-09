@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fruit",
+    "image": "https://firebasestorage.googleapis.com/v0/b/food-foresight.appspot.com/o/catogory_images%2Ffruit%201.png?alt=media&token=0b882f7c-cde1-4dd3-98ee-fd3d89c6577e"
+  },
+  {
+    "name": "Leaft Overs",
+    "image": "https://firebasestorage.googleapis.com/v0/b/food-foresight.appspot.com/o/catogory_images%2Fleftovers%201.png?alt=media&token=2b251199-085c-409d-b5bb-3bf2fdb722f9"
+  },
+  {
+    "name": "Vegetable",
+    "image": "https://firebasestorage.googleapis.com/v0/b/food-foresight.appspot.com/o/catogory_images%2Fvegetable%201.png?alt=media&token=6c42239e-7643-4ea1-b685-04061f99c337"
+  },
+  {
+    "name": "French Fries",
+    "image": "https://firebasestorage.googleapis.com/v0/b/food-foresight.appspot.com/o/catogory_images%2Ffrench-fries%201.png?alt=media&token=be9f2260-4e39-447f-acf0-2a2f272231b1"
+  },
+  {
+    "name": "Fish",
+    "image": "https://firebasestorage.googleapis.com/v0/b/food-foresight.appspot.com/o/catogory_images%2Ffish%201.png?alt=media&token=b076791d-a220-4532-9885-32953406c3d5"
+  },
+  {
+    "name": "Bake",
+    "image": "https://firebasestorage.googleapis.com/v0/b/food-foresight.appspot.com/o/catogory_images%2Fbake%201.png?alt=media&token=6a97a799-bea7-46c3-929b-fd1b20474e9b"
+  }
+]

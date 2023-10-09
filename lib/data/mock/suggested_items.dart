@@ -1,0 +1,22 @@
+const suggestedItems = [
+  {"name": "Potato", "category": "Vegetable", "expirationDate": "4 d"},
+  {"name": "Apple", "category": "Fruit", "expirationDate": "1 m"},
+  {"name": "Milk", "category": "Dairy", "expirationDate": "1 m"},
+  {"name": "Chicken", "category": "Meat", "expirationDate": "1 m"},
+  {"name": "Pasta", "category": "Grains", "expirationDate": "1 m"},
+  {"name": "Soda", "category": "Beverage", "expirationDate": "1 m"},
+  {"name": "Carrots", "category": "Vegetable", "expirationDate": "4 d"},
+  {"name": "Soup", "category": "Canned Food", "expirationDate": "3 d"},
+  {"name": "Yogurt", "category": "Dairy", "expirationDate": "2 w"},
+  {"name": "Beef", "category": "Meat", "expirationDate": "2 w"},
+  {"name": "Banana", "category": "Fruit", "expirationDate": "1 m"},
+  {"name": "Rice", "category": "Grains", "expirationDate": "2 w"},
+  {"name": "Juice", "category": "Beverage", "expirationDate": "2 w"},
+  {"name": "Tomato", "category": "Vegetable", "expirationDate": "2 w"},
+  {"name": "Orange", "category": "Fruit", "expirationDate": "1 m"},
+  {"name": "Cheese", "category": "Dairy", "expirationDate": "2 w"},
+  {"name": "Salmon", "category": "Meat", "expirationDate": "1 m"},
+  {"name": "Bread", "category": "Grains", "expirationDate": "1 w"},
+  {"name": "Water", "category": "Beverage", "expirationDate": "2 w"},
+  {"name": "Cucumber", "category": "Vegetable", "expirationDate": "2 w"}
+];
